@@ -1,4 +1,4 @@
-# Turbomachinery-Student-Project-Pump-Analysis-DHBW-Karlsruhe-#743
+# Turbomachinery-Student-Project-Pump-Analysis-DHBW-Karlsruhe-743
 
 This project analyzes the operating behavior of a water pump based on real-world measurement data and manufacturer specifications. The analysis was conducted as part of the Turbomachinery course at DHBW Karlsruhe.
 
@@ -52,7 +52,7 @@ The project fulfills the requirements defined in the course description:
 
 ## Author
 
-#743  
+743  
 DHBW Karlsruhe  
 Faculty of Mechanical Engineering  
 Course: Turbomachinery
