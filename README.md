@@ -29,9 +29,11 @@ The following key tasks were addressed in this project:
    - Based on difference between input and hydraulic energy
 
 4. Additional Visualizations (Optional)  
-   - Electrical power over time  
-   - Efficiency over time with average reference line  
-   - Instantaneous and cumulative loss energy  
+   - Electrical input power over 24 hours  
+   - Cumulative Electrical Energy Consumption Over 24 Hours  
+   - Hydraulic Efficency Over 24 Hours
+   - Cumulative Non-Hydraulic Energy Loss Over 24 Hours
+   - Non-Hydraulic Energy Loss Over 24 Hours
    - All plots were created using matplotlib
 
 ## Tools Used
@@ -52,7 +54,7 @@ The project fulfills the requirements defined in the course description:
 
 ## Author
 
-743  
+74360  
 DHBW Karlsruhe  
 Faculty of Mechanical Engineering  
 Course: Turbomachinery
